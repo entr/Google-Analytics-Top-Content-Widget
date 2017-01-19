@@ -1,0 +1,13 @@
+{
+    "name": "jtsternberg/google-analytics-top-content-widget",
+    "description": "WordPress widget and shortcodes to display top content according to Google Analytics. (\"Google Analytics Dashboard\" plugin required)",
+    "type": "wordpress-plugin",
+    "license": "GPLv2+",
+    "authors": [
+        {
+            "name": "Justin Sternberg",
+            "email": "me@jtsternberg.com"
+        }
+    ],
+    "require": {}
+}
